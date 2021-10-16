@@ -1,0 +1,2 @@
+Reproducir la vista de la conversación en whatsApp. 
+Subir liga de git, captura de pantalla y texto del código
